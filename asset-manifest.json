@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-barbershop-landing-page/static/css/main.3add0ac2.css",
+    "main.js": "/react-barbershop-landing-page/static/js/main.abf1d975.js",
+    "static/media/barbervid.mp4": "/react-barbershop-landing-page/static/media/barbervid.09cb5b5bc1c972214dd5.mp4",
+    "static/media/logo.jpg": "/react-barbershop-landing-page/static/media/logo.c0cdd443f06ab283118e.jpg",
+    "index.html": "/react-barbershop-landing-page/index.html",
+    "main.3add0ac2.css.map": "/react-barbershop-landing-page/static/css/main.3add0ac2.css.map",
+    "main.abf1d975.js.map": "/react-barbershop-landing-page/static/js/main.abf1d975.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3add0ac2.css",
+    "static/js/main.abf1d975.js"
+  ]
+}
